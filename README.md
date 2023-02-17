@@ -1,14 +1,11 @@
-# Is It Planet Yet?
+# Noise on sphere experiment
 
-This is just an experiment: me trying to learn how to build real-time procedural planets.
-
-Any suggestions/contributions is welcome.  
-I'm here to learn.
+This is just an experiment I wrote to learn how to build real-time procedural planets.
 
 
 ## Status
 
-Current state of the planet:
+State of the planet:
 
 <img src="./assets/images/is_it_planet_yet.gif" />
 
